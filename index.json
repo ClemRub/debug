@@ -1,6 +1,7 @@
 {
   "dir":"https://raw.githubusercontent.com/ClemRub/debug/main/",
   "configs":[
-  "Testgraph.json"
+  "Testgraph.json",
+    "sa.json"
   ]
 }

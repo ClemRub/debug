@@ -1,11 +1,11 @@
 {
-	"graphtype": "",
+	"graphtype": "MDP",
 	"nodes": [
 		{
 			"posX": 438.323,
 			"posY": 364.401,
 			"type": "ClickableGraphNode",
-			"title": "debug debug debug debug debug",
+			"title": "This graph was loaded from the web!",
 			"id": "1",
 			"children": [],
 			"childDegree": 0,
